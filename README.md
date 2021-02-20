@@ -40,6 +40,11 @@ npm run dev
 
 It should now be up and running at http://localhost:3000 🚀
 
+## Run Tests
+```
+npm test
+```
+
 # Deployment
 
 Vercel platform is used for the deployement:
