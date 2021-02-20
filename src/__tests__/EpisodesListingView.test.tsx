@@ -8,4 +8,4 @@ describe("<EpisodesListingView />", () => {
   });
 });
 
-export {}
+export {};

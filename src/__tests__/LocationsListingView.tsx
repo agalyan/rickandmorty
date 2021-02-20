@@ -8,4 +8,4 @@ describe("<LocationsListingView />", () => {
   });
 });
 
-export {}
+export {};

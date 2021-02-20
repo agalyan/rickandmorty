@@ -8,4 +8,4 @@ describe("<CharactersListingView />", () => {
   });
 });
 
-export {}
+export {};
