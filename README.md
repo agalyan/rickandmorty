@@ -1,6 +1,8 @@
 # Explorer for the Rick & Morty API
 
-This is a test project to demonstrate engineer's tech skills
+DEMO 👉 https://morty-rick.vercel.app
+
+[Apollo Client](https://www.apollographql.com/docs/react/) is used for data fetching and state management.
 
 # Getting Started
 
@@ -37,3 +39,14 @@ npm run dev
 ```
 
 It should now be up and running at http://localhost:3000 🚀
+
+# Deployment
+
+Vercel platform is used for the deployement:
+REF 👉 https://nextjs.org/docs/deployment
+
+
+## Public access
+
+The application is accessible publicly by the following url:
+https://morty-rick.vercel.app
